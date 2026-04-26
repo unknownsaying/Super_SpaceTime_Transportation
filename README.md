@@ -11,7 +11,7 @@
 
     based on String Theory and Quantum Loop Theory(Maybe Latex && Typst)
     QCD(Quantum Color Dynamics)    QED(Quantum Electronic Dynamics)
-    Brown Motion   Tensor  Linear Algebra    
+    Brown Motion  Metric Tensor  Linear Algebra    
     1905 Special Relativity
     1916 General Relativity
     Heisenberg Uncertainty Principle(matrix quantum mechanics)   Schodinger Wave Function Equation(wave quantum machanics)    Feynmann Diagram (Double Crak Disturbution)
