@@ -1,4 +1,4 @@
-# based on Calabi-yau Manifold and Mincowski SpaceTime
+# based on Calabi-yau Manifold(abcdef) and Mincowski SpaceTime(XYZT）GH not include
     speedlight = 299792458 m/s
     1 nm = 1 * 10^(-9) m
     science fiction
