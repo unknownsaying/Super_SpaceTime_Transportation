@@ -13,7 +13,7 @@
     QCD(Quantum Color Dynamics)    QED(Quantum Electronic Dynamics)
     Brown Motion  Metric Tensor  Linear Algebra    
     1905 Special Relativity   -1/4 -1/2 0 1/2 1/4 同时的相对性
-    1916 General Relativity   Ruv - 1/2*guv*Tuv = 8*pi*G / c^4
+    1916 General Relativity   Tuv - 1/2*guv*Ruv = 8*pi*G / c^4
     Heisenberg Uncertainty Principle(matrix quantum mechanics)   Schodinger Wave Function Equation(wave quantum machanics)    Feynmann Diagram (Double Crak Disturbution)
 # Math Structure
     MATRIX V - E + F = 2 Euler Polyhedron Equation(MineCraft Pocket Edition)
@@ -28,6 +28,7 @@
     Top 172500 MeV/c^2
     Bottom 4180 MeV/c^2
     Don't Starve Together (Klei Steam) Microsoft(Bill Gates) VS HardMaCro(Elon Musk)
+    
   <img width="1280" height="1024" alt="BlackBody Radiation" src="https://github.com/user-attachments/assets/867e861a-a8db-409f-92b0-79f5add1dd09" />
   <img width="635" height="374" alt="Quark" src="https://github.com/user-attachments/assets/82ee2393-9e47-49ad-a27c-4d4a162589f2" />
   <img width="1196" height="899" alt="QWEN" src="https://github.com/user-attachments/assets/8b5aa174-91a5-4afe-b9ea-7dcfea93f61b" />
