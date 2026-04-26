@@ -1,3 +1,4 @@
+<img width="844" height="600" alt="Character_Head" src="https://github.com/user-attachments/assets/f4de3b0a-8133-4c40-a618-28d3486ce187" />
 # In the beginning
     speedlight = 299792458 m/s
     1 nm = 1 * 10^(-9) m
@@ -30,4 +31,6 @@
     Don't Starve Together (Klei Steam)
   <img width="635" height="374" alt="Quark" src="https://github.com/user-attachments/assets/82ee2393-9e47-49ad-a27c-4d4a162589f2" />
   <img width="662" height="1081" alt="Don&#39;t Starve Together" src="https://github.com/user-attachments/assets/2c6e2cd6-6ca4-4116-afc3-6f878aed9ed5" />
-  个人观点,仅供参考
+  <img width="844" height="600" alt="Character_Head" src="https://github.com/user-attachments/assets/659cf284-80da-43c3-bf93-72e475b8a159" />
+    
+    个人观点,仅供参考
