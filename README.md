@@ -21,12 +21,13 @@
     Fractal 1 Square in Square 2 Mandelbrot Set 3 Koch Snowflake 4  5  6  ignore 
 
 # Quark (Specific Mass) spin = 1/2 +1/3e -2/3e antiquark not include (absolute Zero Temperature)
-    Up 2.3 MeV/c^2
-    Down 4.8 MeV/c^2
+    Bottom 4180 MeV/c^2
     Charm 1.27 MeV/c^2
+    Down 4.8 MeV/c^2
     Strange 96 MeV/c^2
     Top 172500 MeV/c^2
-    Bottom 4180 MeV/c^2
+    Up 2.3 MeV/c^2
+    
     Don't Starve Together (Klei Steam) Microsoft(Bill Gates) VS HardMaCro(Elon Musk)
     
   <img width="1280" height="1024" alt="BlackBody Radiation" src="https://github.com/user-attachments/assets/867e861a-a8db-409f-92b0-79f5add1dd09" />
