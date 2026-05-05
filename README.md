@@ -14,7 +14,7 @@
     Brown Motion  Metric Tensor  Linear Algebra    
     1905 Special Relativity   -1/4 -1/2 0 1/2 1/4 同时的相对性
     1916 General Relativity   Tuv - 1/2*guv*Ruv = 8*pi*G / c^4
-    Heisenberg Uncertainty Principle(matrix quantum mechanics)   Schodinger Wave Function Equation(wave quantum machanics)    Feynmann Diagram (Double Crak Disturbution)
+    Heisenberg Uncertainty Principle(matrix quantum mechanics)   Schodinger Wave Function Equation(wave quantum machanics)    Feynman Diagram (Double Crak Disturbution)
 # Math Structure
     MATRIX V - E + F = 2 Euler Polyhedron Equation(MineCraft Pocket Edition)
     Topology 1 Mobius Ring 2 Penrose Stage 3 Klein Bottle
